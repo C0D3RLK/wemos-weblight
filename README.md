@@ -14,3 +14,7 @@ This source code is for reference purposes.
 2.) NO EFFECT ON/OFF
 3.) TIMER: ON & AUTO OFF on timer
 
+Read more about this 
+@ LINKDN :  https://www.linkedin.com/pulse/control-christmaslights-wemos-lua-esp8266-php-kanthan-raj-kanth-kay-/?published=t
+
+@MEDIUM: https://medium.com/@86kanth/control-christmaslights-with-wemos-lua-esp8266-php-2e44d6156412
